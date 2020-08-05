@@ -26,7 +26,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-acl": "^2.0.4",
-    "express-fileupload": "^1.0.0",
+    "express-fileupload": "^1.1.9",
     "express-session": "^1.15.6",
     "express-validator": "^5.3.0",
     "fast-csv": "^2.4.1",
