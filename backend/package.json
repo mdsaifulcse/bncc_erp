@@ -39,7 +39,7 @@
     "path": "^0.12.7",
     "read-excel-file": "^2.0.6",
     "sharp": "^0.21.0",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "morgan": "^1.9.1",
